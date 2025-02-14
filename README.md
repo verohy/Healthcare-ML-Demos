@@ -1,11 +1,13 @@
 # Leveraging Machine Learning Models for Healthcare Improvement  
 
-This repository explores how machine learning (ML) can enhance healthcare decision-making by predicting key outcomes. It includes three use cases that demonstrate ML’s potential in improving patient care, diagnostic accuracy, and resource management.  
+This project explores how machine learning (ML) models can enhance healthcare operations by predicting critical outcomes. These use cases highlight ML’s potential to improve patient care, diagnostic accuracy, and operational efficiency. It focuses on three key applications:
 
-## Use Cases  
-- **Predicting Cell Malignancy** – Assists in early cancer detection.  
-- **Assessing Heart Disease Risk** – Supports preventive care and early intervention.  
-- **Forecasting Patient No-Shows** – Helps optimize appointment scheduling and resource allocation.  
+## Use Cases 
+- **Predicting Cell Malignancy with Ridge Regression** – Assisting in early cancer detection.
+- **Assessing Heart Disease Risk using Principal Component Analysis and K-Means Clustering** – Supporting preventive care and timely interventions.
+- **Forecasting Patient No-Shows with Gradient Boosted Trees** – Improving appointment scheduling and resource management.
+
+For implementation details, please refer to the HTML file or code.
 
 <!-- ## Repository Structure  
 - `data/` – Contains sample datasets used for training and evaluation.  
